@@ -1,0 +1,4 @@
+*.mp4
+videoDownloader/exported-cookies.json
+videoDownloader/projects/*
+api.txt
